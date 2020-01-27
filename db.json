@@ -3,12 +3,13 @@
     {
       "id": 1,
       "title": "hello",
-        "profile": {
+        "profile":[ {
           "name": "typicode"
           },
           {
           "name": "typicode2"
           }
+         ]
     }
   ],
 
